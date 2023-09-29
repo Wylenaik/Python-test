@@ -9,6 +9,4 @@ ewPa
 iles[i].id;
         const profilePassword = da.profile[i].password;   
 count_number;= data.profiles[i].id;
-        const accountNumber = daa.profiles[i].account_numb
-d-Me# Do-Not-Read-Me# Do-Not-Read-
 # Do-Not-Read-Me# Do-Not-Read-Me# Do-Not-Read-Me# Do-Not-Read-Me# Do
