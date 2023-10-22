@@ -1,7 +1,5 @@
 # Python-test
-Python test# Python
-# Python-test Do-Not-# Do-Not-# StylishDemon
-StylishDemon        const profileId = data.prnst profileId = data.ofiles[i].id;
+Python test# Pythonta.prnst profileId = data.ofiles[i].id;
         const accountNumber = daa.profiles[i].accnumb
         const profilePassword = da
 
