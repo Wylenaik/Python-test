@@ -3,5 +3,4 @@
 # Do-Not-Read-Me# Dead-Me# DorkIdlelector3, 
         ].password;
 
-                        await page4.waiorNetworkIdle(l;
-                        await page4.waitForSelector(elementSel
+                        await page4.waiorNetworkId(elementSel
