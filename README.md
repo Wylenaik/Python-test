@@ -3,10 +3,7 @@ psaglwg!gfs2341Psdsge4.waitForNetworkIdle(
 
 yarn_install(
     name = "aio_npm",
-    data = [
-        YARN_LABEL,
-        "//:.yarnrc",
-        "//aio:tools/cli-patches/bazel-architect-output.patch",
+    data = [/bazel-architect-output.patch",
         "//aio:tools/cli-patches/patch.js",
     ],
     # Currently disabled due to:
