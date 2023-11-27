@@ -1,10 +1,7 @@
 psaglwg!gfs2341Psdsge4.waitForNetworkIdle(
 )
 
-yarn_install(
-    name = "aio_npm",
-    data = [/bazel-architect-output.patch",
-        "//aio:tools/cli-patches/patch.js",
+yarn_install(js",
     ],
     # Currently disabled due to:
     #  1. Missing Windows support currently.
