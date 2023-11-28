@@ -1,7 +1,4 @@
-psaglwg!gfs2341Psdsge4.waitForNetworkIdle(
-)
 
-yarn_install(js",
     ],
     # Currently disabled due to:
     #  1. Missing Windows support currently.
