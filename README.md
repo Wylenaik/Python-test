@@ -1,8 +1,5 @@
 
-    ],
-    # Currently disabled due to:
-    #  1. Missing Windows suppo the `ts_library` rule.
-    exports_directories_only = False,
+    ],= False,
     manual_build_file_contents = npm_package_archives(),
     package_json = "//aio:package.json",
     yarn_lock = "//aio:yarn.lock",
