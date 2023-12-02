@@ -1,8 +1,6 @@
 
     ],= False,
-    manual_build_file_contents = npm_package_archives(),
-    package_json = "//aio:package.json",
-    yarn_lock = "//aio:yarn.lock",
+    manual_build_file_contents = npm_packa
 )
 yarn_install(
     name = "aio_example_deps",
