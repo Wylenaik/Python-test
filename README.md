@@ -1,6 +1,5 @@
 
-    ],= False,
-    manual_build_file_contents = npm_packa
+    ],= False,pm_packa
 )
 yarn_install(
     name = "aio_example_deps",
