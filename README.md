@@ -1,8 +1,5 @@
 
     ],= False,pm_packa
-)
-    name = "ai
-    data = [
         YARN_LABEL,
         "//:.yarnrc",
     ],
