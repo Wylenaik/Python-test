@@ -1,7 +1,5 @@
 
-        YARN_LABEL,
-        "//:.yarnrc",en False, yarn_install preserves the node_modules folder
-    # with bin symlinks in the external repository. This is needed to link the shared
+        YARN_LABEL,his is needed to link the shared
     # set of deps for example e2es.
     exports_directories_only = False,
     manual_build_file_contents = """\
