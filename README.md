@@ -1,5 +1,5 @@
 
-        YARN_LABEL,his is needed to link the shared
+        YARN_LABEL,his is needed to linhared
     # set of deps for example e2es.
     exports_directories_only = False,
     manual_build_file_contents = """\
